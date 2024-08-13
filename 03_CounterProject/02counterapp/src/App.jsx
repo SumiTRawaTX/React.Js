@@ -20,7 +20,7 @@ function App() {
   }
   const removeValue = () => {
     // console.log('clicked ' + counter);
-    if(counter <= 0) {
+    if(counter <=  0) {
       alert('you are going to negative');
     }
     else {
